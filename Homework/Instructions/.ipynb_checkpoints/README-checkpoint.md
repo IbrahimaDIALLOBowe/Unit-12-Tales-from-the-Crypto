@@ -31,18 +31,10 @@ Use the [newsapi](https://newsapi.org/) to pull the latest news articles for Bit
 Use descriptive statistics to answer the following questions:
 
 > Which coin had the highest mean positive score?
-
-**Ethereum had the highest mean positive of 0.60950 compare to bitcoin 0.053**
 >
 > Which coin had the highest negative score?
 >
-
-**Ethereum had the highest compound score 0.877 compare to Bitcoin 0.765**
-
-
 > Which coin had the highest positive score?
-
-**Ethereum had the highest positive score 0.318 compare to Bitcoin 0.174**
 
 #### Natural Language Processing
 
