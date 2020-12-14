@@ -34,13 +34,13 @@ Use descriptive statistics to answer the following questions:
 
 **A: Ethereum had the highest mean positive of 0.60950 compare to bitcoin 0.053**
 >
-> Q:Which coin had the highest negative score?
+> Q: Which coin had the highest negative score?
 >
 
 **A: Ethereum had the highest compound score 0.877 compare to Bitcoin 0.765**
 
 
-> Which coin had the highest positive score?
+> Q: Which coin had the highest positive score?
 
 **A: Ethereum had the highest positive score 0.318 compare to Bitcoin 0.174**
 
