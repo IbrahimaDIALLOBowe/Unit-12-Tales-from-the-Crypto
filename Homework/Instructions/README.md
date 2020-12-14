@@ -46,11 +46,11 @@ Use descriptive statistics to answer the following questions:
 
 ***Bitcoin sentiment scores***
 
-![Bitcoin-sentiment-scores.JPG](Images/Bitcoin sentiment scores.jpg)
+![bitcoin-sentiment-scores.JPG](Images/bitcoin sentiment scores.jpg)
 
 ***Ethereum sentiment scores***
 
-![Ethereum-sentiment-scores.JPG](Images/Ethereum sentiment scores.jpg)
+![ethereum-sentiment-scores.JPG](Images/ethereum sentiment scores.jpg)
 
 #### Natural Language Processing
 
