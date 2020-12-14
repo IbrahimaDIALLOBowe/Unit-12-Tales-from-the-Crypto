@@ -44,6 +44,8 @@ Use descriptive statistics to answer the following questions:
 
 **Ethereum had the highest positive score 0.318 compare to Bitcoin 0.174**
 
+---
+
 ***Bitcoin sentiment scores***
 
 ![btc-sent-scores.JPG](Images/btc-sent-scores.jpg)
@@ -51,6 +53,8 @@ Use descriptive statistics to answer the following questions:
 ***Ethereum sentiment scores***
 
 ![eth-sent-scores.JPG](Images/eth-sent-scores.jpg)
+
+---
 
 #### Natural Language Processing
 
