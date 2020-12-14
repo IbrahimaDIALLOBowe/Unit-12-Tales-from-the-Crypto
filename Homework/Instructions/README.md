@@ -45,10 +45,13 @@ Use descriptive statistics to answer the following questions:
 **Ethereum had the highest positive score 0.318 compare to Bitcoin 0.174**
 
 ***Bitcoin sentiment scores***
+
 ![Bitcoin-sentiment-scores.JPG](Images/Bitcoin sentiment scores.jpg)
 
 ***Ethereum sentiment scores***
+
 ![Ethereum-sentiment-scores.JPG](Images/Ethereum sentiment scores.jpg)
+
 #### Natural Language Processing
 
 In this section, you will use NLTK and Python to tokenize the text for each coin. Be sure to:
